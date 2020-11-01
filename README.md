@@ -10,3 +10,5 @@ I then added alt to images and left blank per no importance.
 Next i reduced the benefits css just i did for the contents css. I reduced them to .beenifts div, beneifts h3, and benefits img. There was a lot of repitition so this was easy to combine instead. 
 After that i added alt attibutes to the content images. 
 I reorganized the css file to follow semantic structure and left comments in that css file. 
+
+Here is the finished product. https://batysteven.github.io/week1/
